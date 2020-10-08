@@ -1,0 +1,14 @@
+.inputdiv{
+    display: block;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    width: 400px;
+}
+.inputdiv input{
+    text-align: center;
+}
+.btn{
+    margin-top: 20px;
+    width: 200px;
+}
